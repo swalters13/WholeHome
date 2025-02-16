@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HomeControl1.ApiService.props" />
+</Project>

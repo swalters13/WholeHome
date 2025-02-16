@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "L7C8hLf6ieXdzgko2E/8EdI2vAArwnXkYbM+xE0XMLo=",
+  "Source": "HomeControl1.ApiService",
+  "BasePath": "_content/HomeControl1.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

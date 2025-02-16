@@ -1,0 +1,12 @@
+C:\Users\scoot\Projects\Azure\HomeControl1\HomeControl1.ServiceDefaults\bin\Debug\net8.0\HomeControl1.ServiceDefaults.deps.json
+C:\Users\scoot\Projects\Azure\HomeControl1\HomeControl1.ServiceDefaults\bin\Debug\net8.0\HomeControl1.ServiceDefaults.dll
+C:\Users\scoot\Projects\Azure\HomeControl1\HomeControl1.ServiceDefaults\bin\Debug\net8.0\HomeControl1.ServiceDefaults.pdb
+C:\Users\scoot\Projects\Azure\HomeControl1\HomeControl1.ServiceDefaults\obj\Debug\net8.0\HomeControl1.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\scoot\Projects\Azure\HomeControl1\HomeControl1.ServiceDefaults\obj\Debug\net8.0\HomeControl1.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scoot\Projects\Azure\HomeControl1\HomeControl1.ServiceDefaults\obj\Debug\net8.0\HomeControl1.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\scoot\Projects\Azure\HomeControl1\HomeControl1.ServiceDefaults\obj\Debug\net8.0\HomeControl1.ServiceDefaults.AssemblyInfo.cs
+C:\Users\scoot\Projects\Azure\HomeControl1\HomeControl1.ServiceDefaults\obj\Debug\net8.0\HomeControl1.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\scoot\Projects\Azure\HomeControl1\HomeControl1.ServiceDefaults\obj\Debug\net8.0\HomeControl1.ServiceDefaults.dll
+C:\Users\scoot\Projects\Azure\HomeControl1\HomeControl1.ServiceDefaults\obj\Debug\net8.0\refint\HomeControl1.ServiceDefaults.dll
+C:\Users\scoot\Projects\Azure\HomeControl1\HomeControl1.ServiceDefaults\obj\Debug\net8.0\HomeControl1.ServiceDefaults.pdb
+C:\Users\scoot\Projects\Azure\HomeControl1\HomeControl1.ServiceDefaults\obj\Debug\net8.0\ref\HomeControl1.ServiceDefaults.dll
